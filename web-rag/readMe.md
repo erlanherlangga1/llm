@@ -1,0 +1,3 @@
+- install requirement.txt
+- ollama pull llama3 for download model
+- streamlit run app.py for run the program
